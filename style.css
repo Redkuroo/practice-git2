@@ -62,6 +62,10 @@ button:hover {
 
 .image {
     border-radius: 100%;
-    width: 1000px;
+    width: 500px;
     margin-left: 250px;
+}
+
+.parent {
+    flex-direction: row;
 }
