@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background: #f4f4f4;
+    background: #941515;
     margin: 0;
     padding: 0;
 }
@@ -8,7 +8,7 @@ body {
 .container {
     max-width: 400px;
     margin: 100px auto;
-    background: #fff;
+    background: #f102c1;
     padding: 2rem;
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
@@ -34,4 +34,10 @@ button:hover {
     margin-top: 1.5rem;
     color: #333;
     font-size: 1.1rem;
+}
+
+.image {
+    border-radius: 100%;
+    width: 1000px;
+    margin-left: 250px;
 }
