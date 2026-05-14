@@ -35,3 +35,9 @@ button:hover {
     color: #333;
     font-size: 1.1rem;
 }
+
+.image {
+    border-radius: 100%;
+    width: 1000px;
+    margin-left: 250px;
+}
